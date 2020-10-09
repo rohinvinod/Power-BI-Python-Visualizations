@@ -1,5 +1,6 @@
 # Power-BI-Python-Visualizations
-Created visualizations using python scripts
+
+##Created visualizations using python scripts
 
 Initially ran python scripts inside Power BI to create the necessary table columns and inserted data.
 
