@@ -1,4 +1,4 @@
-# Power-BI-Python-Visualizations
+# Power BI-Visualizations using Python
 
 ## Created visualizations using python scripts
 
